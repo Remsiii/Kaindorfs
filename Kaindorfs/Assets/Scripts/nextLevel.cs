@@ -11,7 +11,8 @@ public class nextLevel : MonoBehaviour
         if(other.tag == "Spieler")
         {
             // SceneManager.LoadScene("scene1_2");
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+            SceneManager.LoadScene("scene1_2");
         }
     }
 }

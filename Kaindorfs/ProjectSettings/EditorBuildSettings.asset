@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SceneEnterSchool.unity
     guid: 0e0849ff2ab70de408d67e6b81cf798f
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: c450449f9a399a64baf761a3821c9c0c
   m_configObjects: {}

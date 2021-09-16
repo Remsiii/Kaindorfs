@@ -19,9 +19,13 @@ public class OnClickButtons : MonoBehaviour
 
     public void StartButton()
     {
-        SceneManager.LoadScene("SceneEnterSchool");
+        SceneManager.LoadScene("CharacterSelection");
     }
 
+    public void NextButton()
+    {
+        SceneManager.LoadScene("SceneEnterSchool");
+    }
     public void Quit()
     {
 

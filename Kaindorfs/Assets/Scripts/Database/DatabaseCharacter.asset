@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a562f4dcc3a792248ae6cc06ab067ac5, type: 3}
+  m_Name: DatabaseCharacter
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Inrofmatiker
+    characterSprite: {fileID: 8571405733774819425, guid: 87d3c30660af90242bc2e057d2ac33d6, type: 3}
+  - characterName: Automatisierer
+    characterSprite: {fileID: 3234041110848384693, guid: bc680d8ec2375614f8541f33b53bdda9, type: 3}
+  - characterName: Mechatroniker
+    characterSprite: {fileID: 6073954087784920890, guid: f53e80a04266d4948af2c42d4525937f, type: 3}
+  - characterName: Robotiker
+    characterSprite: {fileID: 9158189679045095724, guid: 029b0fb5cafa03d449f06ccd7736d991, type: 3}

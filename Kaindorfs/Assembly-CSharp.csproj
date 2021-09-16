@@ -68,6 +68,9 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\Scripts\OnClickButtons.cs" />
+    <Compile Include="Assets\Scripts\Database\CharacterManager.cs" />
+    <Compile Include="Assets\Scripts\Database\DatabaseCharacter.cs" />
+    <Compile Include="Assets\Scripts\Database\CharacterSelection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />

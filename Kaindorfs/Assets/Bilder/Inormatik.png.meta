@@ -103,10 +103,10 @@ TextureImporter:
       name: Inormatik_0
       rect:
         serializedVersion: 2
-        x: 60
-        y: 0
-        width: 116
-        height: 246
+        x: 61
+        y: 3
+        width: 114
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,10 +124,10 @@ TextureImporter:
       name: Inormatik_1
       rect:
         serializedVersion: 2
-        x: 310
-        y: 0
-        width: 130
-        height: 245
+        x: 308
+        y: 3
+        width: 134
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,9 +145,9 @@ TextureImporter:
       name: Inormatik_2
       rect:
         serializedVersion: 2
-        x: 551
+        x: 555
         y: 35
-        width: 128
+        width: 131
         height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
