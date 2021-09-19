@@ -8,11 +8,11 @@ public class nextLevel : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.tag == "Spieler")
+        if(other.tag == "Player")
         {
             // SceneManager.LoadScene("scene1_2");
             //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-            SceneManager.LoadScene("scene1_2");
+            SceneManager.LoadScene("GameplayScene");
         }
     }
 }

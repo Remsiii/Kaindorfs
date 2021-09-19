@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: DatabaseCharacter
   m_EditorClassIdentifier: 
   character:
-  - characterName: Inrofmatiker
+  - characterName: Informatiker
     characterSprite: {fileID: 8571405733774819425, guid: 87d3c30660af90242bc2e057d2ac33d6, type: 3}
   - characterName: Automatisierer
     characterSprite: {fileID: 3234041110848384693, guid: bc680d8ec2375614f8541f33b53bdda9, type: 3}

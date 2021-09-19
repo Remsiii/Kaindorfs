@@ -13,186 +13,1134 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-09-16T20:18:50.938+02:00
-  initializedAtString: 2021-09-16T15:40:58.849+02:00
+  lastUpdatedAtString: 2021-09-19T11:23:02.622+02:00
+  initializedAtString: 2021-09-19T11:20:16.605+02:00
   entries:
+  - path: Kaindorfs\.vs\Kaindorfs\v16\.suo
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\.vs\Kaindorfs\v16\.suo
+    projectPath: .vs\Kaindorfs\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Kaindorfs\Assembly-CSharp.csproj
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Kaindorfs\Assets\Bilder\Animation.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation.meta
+    projectPath: Assets\Bilder\Animation.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\Coin.anim
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\Coin.anim
+    projectPath: Assets\Bilder\Animation\Coin.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\Coin.anim.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\Coin.anim.meta
+    projectPath: Assets\Bilder\Animation\Coin.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\Coin_Prefab.prefab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\Coin_Prefab.prefab
+    projectPath: Assets\Bilder\Animation\Coin_Prefab.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\Coin_Prefab.prefab.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\Coin_Prefab.prefab.meta
+    projectPath: Assets\Bilder\Animation\Coin_Prefab.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-1.controller
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-1.controller
+    projectPath: Assets\Bilder\Animation\frame-1.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-1.controller.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-1.controller.meta
+    projectPath: Assets\Bilder\Animation\frame-1.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-1.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-1.png
+    projectPath: Assets\Bilder\Animation\frame-1.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-1.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-1.png.meta
+    projectPath: Assets\Bilder\Animation\frame-1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-10.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-10.png
+    projectPath: Assets\Bilder\Animation\frame-10.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-10.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-10.png.meta
+    projectPath: Assets\Bilder\Animation\frame-10.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-2.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-2.png
+    projectPath: Assets\Bilder\Animation\frame-2.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-2.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-2.png.meta
+    projectPath: Assets\Bilder\Animation\frame-2.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-3.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-3.png
+    projectPath: Assets\Bilder\Animation\frame-3.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-3.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-3.png.meta
+    projectPath: Assets\Bilder\Animation\frame-3.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-4.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-4.png
+    projectPath: Assets\Bilder\Animation\frame-4.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-4.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-4.png.meta
+    projectPath: Assets\Bilder\Animation\frame-4.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-5.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-5.png
+    projectPath: Assets\Bilder\Animation\frame-5.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-5.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-5.png.meta
+    projectPath: Assets\Bilder\Animation\frame-5.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-6.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-6.png
+    projectPath: Assets\Bilder\Animation\frame-6.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-6.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-6.png.meta
+    projectPath: Assets\Bilder\Animation\frame-6.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-7.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-7.png
+    projectPath: Assets\Bilder\Animation\frame-7.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-7.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-7.png.meta
+    projectPath: Assets\Bilder\Animation\frame-7.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-8.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-8.png
+    projectPath: Assets\Bilder\Animation\frame-8.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-8.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-8.png.meta
+    projectPath: Assets\Bilder\Animation\frame-8.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-9.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-9.png
+    projectPath: Assets\Bilder\Animation\frame-9.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Animation\frame-9.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Animation\frame-9.png.meta
+    projectPath: Assets\Bilder\Animation\frame-9.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin.meta
+    projectPath: Assets\Bilder\AnimationCoin.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\Coin.anim
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\Coin.anim
+    projectPath: Assets\Bilder\AnimationCoin\Coin.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\Coin.anim.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\Coin.anim.meta
+    projectPath: Assets\Bilder\AnimationCoin\Coin.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\Coin_Prefab.prefab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\Coin_Prefab.prefab
+    projectPath: Assets\Bilder\AnimationCoin\Coin_Prefab.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\Coin_Prefab.prefab.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\Coin_Prefab.prefab.meta
+    projectPath: Assets\Bilder\AnimationCoin\Coin_Prefab.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-1.controller
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-1.controller
+    projectPath: Assets\Bilder\AnimationCoin\frame-1.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-1.controller.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-1.controller.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-1.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-1.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-1.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-1.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-1.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-10.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-10.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-10.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-10.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-10.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-10.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-2.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-2.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-2.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-2.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-3.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-3.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-3.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-3.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-4.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-4.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-4.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-4.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-5.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-5.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-5.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-5.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-5.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-5.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-6.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-6.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-6.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-6.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-7.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-7.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-7.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-7.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-8.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-8.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-8.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-8.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-8.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-8.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-9.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-9.png
+    projectPath: Assets\Bilder\AnimationCoin\frame-9.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\AnimationCoin\frame-9.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\AnimationCoin\frame-9.png.meta
+    projectPath: Assets\Bilder\AnimationCoin\frame-9.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Kaindorfs\Assets\Bilder\Automatisierer.png
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Automatisierer.png
     projectPath: Assets\Bilder\Automatisierer.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\Automatisierer.png.meta
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Automatisierer.png.meta
     projectPath: Assets\Bilder\Automatisierer.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Assets\Bilder\frame-10.png
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\frame-10.png
-    projectPath: Assets\Bilder\frame-10.png
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Background.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background.meta
+    projectPath: Assets\Bilder\Background.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Assets\Bilder\frame-10.png.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\frame-10.png.meta
-    projectPath: Assets\Bilder\frame-10.png.meta
+  - path: Kaindorfs\Assets\Bilder\Background\breitbild.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\breitbild.png
+    projectPath: Assets\Bilder\Background\breitbild.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\breitbild.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\breitbild.png.meta
+    projectPath: Assets\Bilder\Background\breitbild.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00001.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00001.jpeg
+    projectPath: Assets\Bilder\Background\image00001.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00001.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00001.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00001.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00002.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00002.jpeg
+    projectPath: Assets\Bilder\Background\image00002.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00002.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00002.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00002.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00003.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00003.jpeg
+    projectPath: Assets\Bilder\Background\image00003.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00003.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00003.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00003.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00004.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00004.jpeg
+    projectPath: Assets\Bilder\Background\image00004.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00004.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00004.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00004.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00005.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00005.jpeg
+    projectPath: Assets\Bilder\Background\image00005.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00005.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00005.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00005.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00006.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00006.jpeg
+    projectPath: Assets\Bilder\Background\image00006.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00006.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00006.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00006.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00007.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00007.jpeg
+    projectPath: Assets\Bilder\Background\image00007.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00007.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00007.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00007.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00008.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00008.jpeg
+    projectPath: Assets\Bilder\Background\image00008.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00008.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00008.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00008.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00009.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00009.jpeg
+    projectPath: Assets\Bilder\Background\image00009.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00009.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00009.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00009.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00010.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00010.jpeg
+    projectPath: Assets\Bilder\Background\image00010.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00010.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00010.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00010.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00011.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00011.jpeg
+    projectPath: Assets\Bilder\Background\image00011.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00011.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00011.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00011.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00012.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00012.jpeg
+    projectPath: Assets\Bilder\Background\image00012.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00012.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00012.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00012.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00013.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00013.jpeg
+    projectPath: Assets\Bilder\Background\image00013.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00013.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00013.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00013.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00014.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00014.jpeg
+    projectPath: Assets\Bilder\Background\image00014.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00014.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00014.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00014.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00015.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00015.jpeg
+    projectPath: Assets\Bilder\Background\image00015.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00015.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00015.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00015.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00016.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00016.jpeg
+    projectPath: Assets\Bilder\Background\image00016.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00016.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00016.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00016.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00017.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00017.jpeg
+    projectPath: Assets\Bilder\Background\image00017.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00017.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00017.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00017.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00018.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00018.jpeg
+    projectPath: Assets\Bilder\Background\image00018.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00018.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00018.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00018.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00019.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00019.jpeg
+    projectPath: Assets\Bilder\Background\image00019.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00019.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00019.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00019.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00020.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00020.jpeg
+    projectPath: Assets\Bilder\Background\image00020.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00020.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00020.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00020.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00021.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00021.jpeg
+    projectPath: Assets\Bilder\Background\image00021.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00021.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00021.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00021.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00022.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00022.jpeg
+    projectPath: Assets\Bilder\Background\image00022.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00022.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00022.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00022.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00023.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00023.jpeg
+    projectPath: Assets\Bilder\Background\image00023.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00023.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00023.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00023.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00024.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00024.jpeg
+    projectPath: Assets\Bilder\Background\image00024.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00024.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00024.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00024.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00025.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00025.jpeg
+    projectPath: Assets\Bilder\Background\image00025.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00025.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00025.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00025.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00026.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00026.jpeg
+    projectPath: Assets\Bilder\Background\image00026.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00026.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00026.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00026.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00027.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00027.jpeg
+    projectPath: Assets\Bilder\Background\image00027.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00027.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00027.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00027.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00028.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00028.jpeg
+    projectPath: Assets\Bilder\Background\image00028.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00028.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00028.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00028.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00029.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00029.jpeg
+    projectPath: Assets\Bilder\Background\image00029.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00029.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00029.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00029.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00030.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00030.jpeg
+    projectPath: Assets\Bilder\Background\image00030.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00030.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00030.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00030.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00031.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00031.jpeg
+    projectPath: Assets\Bilder\Background\image00031.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00031.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00031.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00031.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00032.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00032.jpeg
+    projectPath: Assets\Bilder\Background\image00032.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00032.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00032.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00032.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00033.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00033.jpeg
+    projectPath: Assets\Bilder\Background\image00033.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00033.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00033.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00033.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00034.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00034.jpeg
+    projectPath: Assets\Bilder\Background\image00034.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00034.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00034.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00034.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00035.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00035.jpeg
+    projectPath: Assets\Bilder\Background\image00035.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00035.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00035.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00035.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00036.jpeg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00036.jpeg
+    projectPath: Assets\Bilder\Background\image00036.jpeg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Background\image00036.jpeg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Background\image00036.jpeg.meta
+    projectPath: Assets\Bilder\Background\image00036.jpeg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\breitbild.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\breitbild.png
+    projectPath: Assets\Bilder\breitbild.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\breitbild.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\breitbild.png.meta
+    projectPath: Assets\Bilder\breitbild.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Characters.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters.meta
+    projectPath: Assets\Bilder\Characters.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Automatisierer.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Automatisierer.png
+    projectPath: Assets\Bilder\Characters\Automatisierer.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Automatisierer.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Automatisierer.png.meta
+    projectPath: Assets\Bilder\Characters\Automatisierer.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Inormatik.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Inormatik.png
+    projectPath: Assets\Bilder\Characters\Inormatik.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Inormatik.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Inormatik.png.meta
+    projectPath: Assets\Bilder\Characters\Inormatik.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Lehrer.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Lehrer.png
+    projectPath: Assets\Bilder\Characters\Lehrer.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Lehrer.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Lehrer.png.meta
+    projectPath: Assets\Bilder\Characters\Lehrer.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Mechatronik.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Mechatronik.png
+    projectPath: Assets\Bilder\Characters\Mechatronik.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Mechatronik.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Mechatronik.png.meta
+    projectPath: Assets\Bilder\Characters\Mechatronik.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Pixilart_Sprite_Sheet.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Pixilart_Sprite_Sheet.png
+    projectPath: Assets\Bilder\Characters\Pixilart_Sprite_Sheet.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Pixilart_Sprite_Sheet.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Pixilart_Sprite_Sheet.png.meta
+    projectPath: Assets\Bilder\Characters\Pixilart_Sprite_Sheet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Robotiker.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Robotiker.png
+    projectPath: Assets\Bilder\Characters\Robotiker.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Characters\Robotiker.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Characters\Robotiker.png.meta
+    projectPath: Assets\Bilder\Characters\Robotiker.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\ezgif.com-gif-maker.jpg
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\ezgif.com-gif-maker.jpg
+    projectPath: Assets\Bilder\ezgif.com-gif-maker.jpg
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\ezgif.com-gif-maker.jpg.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\ezgif.com-gif-maker.jpg.meta
+    projectPath: Assets\Bilder\ezgif.com-gif-maker.jpg.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\InformatikDILE.anim
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\InformatikDILE.anim
     projectPath: Assets\Bilder\InformatikDILE.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\InformatikDILE.anim.meta
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\InformatikDILE.anim.meta
     projectPath: Assets\Bilder\InformatikDILE.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\informatikJump.anim
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\informatikJump.anim
     projectPath: Assets\Bilder\informatikJump.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\informatikJump.anim.meta
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\informatikJump.anim.meta
     projectPath: Assets\Bilder\informatikJump.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\InformatikWalk.anim
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\InformatikWalk.anim
     projectPath: Assets\Bilder\InformatikWalk.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\InformatikWalk.anim.meta
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\InformatikWalk.anim.meta
     projectPath: Assets\Bilder\InformatikWalk.anim.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Inormatik.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Inormatik.png
+    projectPath: Assets\Bilder\Inormatik.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\Inormatik.png.meta
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Inormatik.png.meta
     projectPath: Assets\Bilder\Inormatik.png.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\Mechatronik.png
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Mechatronik.png
     projectPath: Assets\Bilder\Mechatronik.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\Mechatronik.png.meta
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Mechatronik.png.meta
     projectPath: Assets\Bilder\Mechatronik.png.meta
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Bilder\Music\FrogTown.mp3
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Music\FrogTown.mp3
+    projectPath: Assets\Bilder\Music\FrogTown.mp3
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_1.png
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_1.png
-    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_1.png
+  - path: Kaindorfs\Assets\Bilder\Music\FrogTown.mp3.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Music\FrogTown.mp3.meta
+    projectPath: Assets\Bilder\Music\FrogTown.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_4.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_4.png
+    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_4.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_1.png.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_1.png.meta
-    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_1.png.meta
+  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_4.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_4.png.meta
+    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_4.png.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_2.png
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_2.png
-    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_2.png
+  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_5.png
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_5.png
+    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_5.png
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_2.png.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_2.png.meta
-    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_2.png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_5.png.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_5.png.meta
+    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_5.png.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_3.png
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_3.png
-    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_3.png
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation.meta
+    projectPath: Assets\Bilder\PlayerAnimation.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_3.png.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Pixilart_Sprite_Sheet_3.png.meta
-    projectPath: Assets\Bilder\Pixilart_Sprite_Sheet_3.png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\IDLE.anim
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\IDLE.anim
+    projectPath: Assets\Bilder\PlayerAnimation\IDLE.anim
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Kaindorfs\Assets\Bilder\Player1.png
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Player1.png
-    projectPath: Assets\Bilder\Player1.png
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\IDLE.anim.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\IDLE.anim.meta
+    projectPath: Assets\Bilder\PlayerAnimation\IDLE.anim.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Kaindorfs\Assets\Bilder\Player1.png.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Player1.png.meta
-    projectPath: Assets\Bilder\Player1.png.meta
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\InformatikDILE.anim
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\InformatikDILE.anim
+    projectPath: Assets\Bilder\PlayerAnimation\InformatikDILE.anim
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\InformatikDILE.anim.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\InformatikDILE.anim.meta
+    projectPath: Assets\Bilder\PlayerAnimation\InformatikDILE.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\informatikJump.anim
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\informatikJump.anim
+    projectPath: Assets\Bilder\PlayerAnimation\informatikJump.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\informatikJump.anim.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\informatikJump.anim.meta
+    projectPath: Assets\Bilder\PlayerAnimation\informatikJump.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\InformatikWalk.anim
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\InformatikWalk.anim
+    projectPath: Assets\Bilder\PlayerAnimation\InformatikWalk.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\InformatikWalk.anim.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\InformatikWalk.anim.meta
+    projectPath: Assets\Bilder\PlayerAnimation\InformatikWalk.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\Jumping.anim
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\Jumping.anim
+    projectPath: Assets\Bilder\PlayerAnimation\Jumping.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\Jumping.anim.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\Jumping.anim.meta
+    projectPath: Assets\Bilder\PlayerAnimation\Jumping.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\Player.controller
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\Player.controller
+    projectPath: Assets\Bilder\PlayerAnimation\Player.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\Player.controller.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\Player.controller.meta
+    projectPath: Assets\Bilder\PlayerAnimation\Player.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\Running.anim
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\Running.anim
+    projectPath: Assets\Bilder\PlayerAnimation\Running.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Bilder\PlayerAnimation\Running.anim.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\PlayerAnimation\Running.anim.meta
+    projectPath: Assets\Bilder\PlayerAnimation\Running.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Kaindorfs\Assets\Bilder\Robotiker.png
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Robotiker.png
     projectPath: Assets\Bilder\Robotiker.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Bilder\Robotiker.png.meta
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Robotiker.png.meta
     projectPath: Assets\Bilder\Robotiker.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Assets\Bilder\Start.prefab
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Start.prefab
-    projectPath: Assets\Bilder\Start.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Assets\Bilder\Start.prefab.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Bilder\Start.prefab.meta
-    projectPath: Assets\Bilder\Start.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Assets\ButtonTextPressed_0009_Package-----------------.png
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\ButtonTextPressed_0009_Package-----------------.png
-    projectPath: Assets\ButtonTextPressed_0009_Package-----------------.png
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Assets\ButtonTextPressed_0009_Package-----------------.png.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\ButtonTextPressed_0009_Package-----------------.png.meta
-    projectPath: Assets\ButtonTextPressed_0009_Package-----------------.png.meta
+  - path: Kaindorfs\Assets\Character.prefab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Character.prefab
+    projectPath: Assets\Character.prefab
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Character.prefab.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Character.prefab.meta
+    projectPath: Assets\Character.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Player.prefab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Player.prefab
+    projectPath: Assets\Player.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Player.prefab.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Player.prefab.meta
+    projectPath: Assets\Player.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Kaindorfs\Assets\Scenes\CharacterSelection.unity
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\CharacterSelection.unity
     projectPath: Assets\Scenes\CharacterSelection.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Kaindorfs\Assets\Scenes\CharacterSelection.unity.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\CharacterSelection.unity.meta
-    projectPath: Assets\Scenes\CharacterSelection.unity.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -200,65 +1148,107 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\GameplayScene.unity
     projectPath: Assets\Scenes\GameplayScene.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scenes\GameplayScene.unity.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\GameplayScene.unity.meta
-    projectPath: Assets\Scenes\GameplayScene.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Kaindorfs\Assets\Scenes\MainMenu.unity
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\MainMenu.unity
     projectPath: Assets\Scenes\MainMenu.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Kaindorfs\Assets\Scenes\scene1.unity
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\scene1.unity
+    projectPath: Assets\Scenes\scene1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Scenes\scene1.unity.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\scene1.unity.meta
+    projectPath: Assets\Scenes\scene1.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Scenes\scene1_2.unity
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\scene1_2.unity
+    projectPath: Assets\Scenes\scene1_2.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Scenes\scene1_2.unity.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\scene1_2.unity.meta
+    projectPath: Assets\Scenes\scene1_2.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Scenes\scene2.unity
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\scene2.unity
+    projectPath: Assets\Scenes\scene2.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Assets\Scenes\scene2.unity.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\scene2.unity.meta
+    projectPath: Assets\Scenes\scene2.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Assets\Scenes\SceneEnterSchool.unity
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\SceneEnterSchool.unity
     projectPath: Assets\Scenes\SceneEnterSchool.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Kaindorfs\Assets\Scenes\Settings.unity
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\Settings.unity
-    projectPath: Assets\Scenes\Settings.unity
+  - path: Kaindorfs\Assets\Scenes\Test.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\Test.meta
+    projectPath: Assets\Scenes\Test.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scenes\Settings.unity.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\Settings.unity.meta
-    projectPath: Assets\Scenes\Settings.unity.meta
+  - path: Kaindorfs\Assets\Scenes\Test\scene1.unity
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\Test\scene1.unity
+    projectPath: Assets\Scenes\Test\scene1.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scripts\Database.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Database.meta
-    projectPath: Assets\Scripts\Database.meta
+  - path: Kaindorfs\Assets\Scenes\Test\scene1.unity.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\Test\scene1.unity.meta
+    projectPath: Assets\Scenes\Test\scene1.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scripts\Database\CharacterManager.cs
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Database\CharacterManager.cs
-    projectPath: Assets\Scripts\Database\CharacterManager.cs
+  - path: Kaindorfs\Assets\Scenes\Test\scene1_2.unity
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\Test\scene1_2.unity
+    projectPath: Assets\Scenes\Test\scene1_2.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scripts\Database\CharacterManager.cs.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Database\CharacterManager.cs.meta
-    projectPath: Assets\Scripts\Database\CharacterManager.cs.meta
+  - path: Kaindorfs\Assets\Scenes\Test\scene1_2.unity.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\Test\scene1_2.unity.meta
+    projectPath: Assets\Scenes\Test\scene1_2.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scripts\Database\CharacterSelection.cs
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Database\CharacterSelection.cs
-    projectPath: Assets\Scripts\Database\CharacterSelection.cs
+  - path: Kaindorfs\Assets\Scenes\Test\scene2.unity
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\Test\scene2.unity
+    projectPath: Assets\Scenes\Test\scene2.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scripts\Database\CharacterSelection.cs.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Database\CharacterSelection.cs.meta
-    projectPath: Assets\Scripts\Database\CharacterSelection.cs.meta
+  - path: Kaindorfs\Assets\Scenes\Test\scene2.unity.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scenes\Test\scene2.unity.meta
+    projectPath: Assets\Scenes\Test\scene2.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Scripts\Character2DController.cs
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Character2DController.cs
+    projectPath: Assets\Scripts\Character2DController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Scripts\Character2DController.cs.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Character2DController.cs.meta
+    projectPath: Assets\Scripts\Character2DController.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -266,35 +1256,32 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Database\DatabaseCharacter.asset
     projectPath: Assets\Scripts\Database\DatabaseCharacter.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scripts\Database\DatabaseCharacter.asset.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Database\DatabaseCharacter.asset.meta
-    projectPath: Assets\Scripts\Database\DatabaseCharacter.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scripts\Database\DatabaseCharacter.cs
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Database\DatabaseCharacter.cs
-    projectPath: Assets\Scripts\Database\DatabaseCharacter.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Assets\Scripts\Database\DatabaseCharacter.cs.meta
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\Database\DatabaseCharacter.cs.meta
-    projectPath: Assets\Scripts\Database\DatabaseCharacter.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Kaindorfs\Assets\Scripts\nextLevel.cs
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\nextLevel.cs
     projectPath: Assets\Scripts\nextLevel.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Kaindorfs\Assets\Scripts\OnClickButtons.cs
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Scripts\OnClickButtons.cs
-    projectPath: Assets\Scripts\OnClickButtons.cs
+  - path: Kaindorfs\Assets\Spieler Variant.prefab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Spieler
+      Variant.prefab
+    projectPath: Assets\Spieler Variant.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Spieler Variant.prefab.meta
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Spieler
+      Variant.prefab.meta
+    projectPath: Assets\Spieler Variant.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Assets\Standard Assets\2D\Animations\RobotBoyCrouchingWalk.anim
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Assets\Standard
+      Assets\2D\Animations\RobotBoyCrouchingWalk.anim
+    projectPath: Assets\Standard Assets\2D\Animations\RobotBoyCrouchingWalk.anim
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -305,21 +1292,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Kaindorfs\Library\AnnotationManager
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\AnnotationManager
-    projectPath: Library\AnnotationManager
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Kaindorfs\Library\ArtifactDB
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Kaindorfs\Library\Artifacts\00\005919dd558a5d1755ad239fe83193f7
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\00\005919dd558a5d1755ad239fe83193f7
-    projectPath: Library\Artifacts\00\005919dd558a5d1755ad239fe83193f7
+  - path: Kaindorfs\Library\Artifacts\02\02ccb83bfcbe36330eef0a29d848cb41
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\02\02ccb83bfcbe36330eef0a29d848cb41
+    projectPath: Library\Artifacts\02\02ccb83bfcbe36330eef0a29d848cb41
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -327,41 +1308,47 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\03\035ebd196eb88fc0253517e626241cff
     projectPath: Library\Artifacts\03\035ebd196eb88fc0253517e626241cff
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\06\06f190d12dd9df6de2bb2658a298bb50
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\06\06f190d12dd9df6de2bb2658a298bb50
+    projectPath: Library\Artifacts\06\06f190d12dd9df6de2bb2658a298bb50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\07\078295bcf2f49a291723a29ae23f0772
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\07\078295bcf2f49a291723a29ae23f0772
+    projectPath: Library\Artifacts\07\078295bcf2f49a291723a29ae23f0772
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Kaindorfs\Library\Artifacts\07\07a17e63bad7121d76f97dfa80708faf
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\07\07a17e63bad7121d76f97dfa80708faf
     projectPath: Library\Artifacts\07\07a17e63bad7121d76f97dfa80708faf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\08\084d512ed58485be298d30a06956172c
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\08\084d512ed58485be298d30a06956172c
-    projectPath: Library\Artifacts\08\084d512ed58485be298d30a06956172c
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Library\Artifacts\0b\0b4874d03c71cd9de76bf4efec70fac3
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\0b\0b4874d03c71cd9de76bf4efec70fac3
-    projectPath: Library\Artifacts\0b\0b4874d03c71cd9de76bf4efec70fac3
+  - path: Kaindorfs\Library\Artifacts\0c\0c1b74642a75a32fde9dc407823b1bc4
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\0c\0c1b74642a75a32fde9dc407823b1bc4
+    projectPath: Library\Artifacts\0c\0c1b74642a75a32fde9dc407823b1bc4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\0c\0c432f699dc5b87c7ac41119ab0b4fc7
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\0c\0c432f699dc5b87c7ac41119ab0b4fc7
-    projectPath: Library\Artifacts\0c\0c432f699dc5b87c7ac41119ab0b4fc7
+  - path: Kaindorfs\Library\Artifacts\0d\0d4ff50c1ea5fff85d84b29d262b5ecb
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\0d\0d4ff50c1ea5fff85d84b29d262b5ecb
+    projectPath: Library\Artifacts\0d\0d4ff50c1ea5fff85d84b29d262b5ecb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\0c\0cfec1c2782774247e31ce7cd4f93638
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\0c\0cfec1c2782774247e31ce7cd4f93638
-    projectPath: Library\Artifacts\0c\0cfec1c2782774247e31ce7cd4f93638
+  - path: Kaindorfs\Library\Artifacts\0f\0f9cb001524ea858e655572a226a059a
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\0f\0f9cb001524ea858e655572a226a059a
+    projectPath: Library\Artifacts\0f\0f9cb001524ea858e655572a226a059a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\0c\0cfedc8b443c0999d21443f53588e3eb
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\0c\0cfedc8b443c0999d21443f53588e3eb
-    projectPath: Library\Artifacts\0c\0cfedc8b443c0999d21443f53588e3eb
+  - path: Kaindorfs\Library\Artifacts\10\100460438b4c3a5d47715a793e6db771
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\10\100460438b4c3a5d47715a793e6db771
+    projectPath: Library\Artifacts\10\100460438b4c3a5d47715a793e6db771
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -369,17 +1356,59 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\10\100718a7bf2d996e0f0c74b18a27a804
     projectPath: Library\Artifacts\10\100718a7bf2d996e0f0c74b18a27a804
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\10\1067e364db054317cccff439baebe381
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\10\1067e364db054317cccff439baebe381
+    projectPath: Library\Artifacts\10\1067e364db054317cccff439baebe381
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\10\10abec5042686a290927dc7cf028bf2d
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\10\10abec5042686a290927dc7cf028bf2d
+    projectPath: Library\Artifacts\10\10abec5042686a290927dc7cf028bf2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\11\11431deb1c8ec096a9ceb3dbd05b75e3
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\11\11431deb1c8ec096a9ceb3dbd05b75e3
+    projectPath: Library\Artifacts\11\11431deb1c8ec096a9ceb3dbd05b75e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\12\12053d393fb73010400d7e0e8c1dd7b1
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\12\12053d393fb73010400d7e0e8c1dd7b1
+    projectPath: Library\Artifacts\12\12053d393fb73010400d7e0e8c1dd7b1
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Kaindorfs\Library\Artifacts\12\129183cde486d401155641253db97d7f
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\12\129183cde486d401155641253db97d7f
     projectPath: Library\Artifacts\12\129183cde486d401155641253db97d7f
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\12\12fc250b052b4b1379784644cd4c435f
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\12\12fc250b052b4b1379784644cd4c435f
+    projectPath: Library\Artifacts\12\12fc250b052b4b1379784644cd4c435f
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\15\15006753e72480366375d9070d85a9a1
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\15\15006753e72480366375d9070d85a9a1
-    projectPath: Library\Artifacts\15\15006753e72480366375d9070d85a9a1
+  - path: Kaindorfs\Library\Artifacts\16\160227e5766901a957ab93441e3baeaa
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\16\160227e5766901a957ab93441e3baeaa
+    projectPath: Library\Artifacts\16\160227e5766901a957ab93441e3baeaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\17\17c500057d87707fd978f9206ec1d8bd
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\17\17c500057d87707fd978f9206ec1d8bd
+    projectPath: Library\Artifacts\17\17c500057d87707fd978f9206ec1d8bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\19\194720128164204c4faaca136d4ebe11
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\19\194720128164204c4faaca136d4ebe11
+    projectPath: Library\Artifacts\19\194720128164204c4faaca136d4ebe11
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -387,17 +1416,11 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\1b\1b4082621ee341a68f29b9c489c4110d
     projectPath: Library\Artifacts\1b\1b4082621ee341a68f29b9c489c4110d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\1f\1f206f46cae4a469561af78834eda759
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\1f\1f206f46cae4a469561af78834eda759
-    projectPath: Library\Artifacts\1f\1f206f46cae4a469561af78834eda759
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Library\Artifacts\20\2025297025472bc430e2ff167b5567c0
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\20\2025297025472bc430e2ff167b5567c0
-    projectPath: Library\Artifacts\20\2025297025472bc430e2ff167b5567c0
+  - path: Kaindorfs\Library\Artifacts\1e\1ef9ea55c83f9ef22db7897e70072b94
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\1e\1ef9ea55c83f9ef22db7897e70072b94
+    projectPath: Library\Artifacts\1e\1ef9ea55c83f9ef22db7897e70072b94
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -405,65 +1428,251 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\21\21693891a0a11d352dbd16e6f0d6a6b9
     projectPath: Library\Artifacts\21\21693891a0a11d352dbd16e6f0d6a6b9
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\22\22481fc3595198e28451f787a8b3be08
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\22\22481fc3595198e28451f787a8b3be08
+    projectPath: Library\Artifacts\22\22481fc3595198e28451f787a8b3be08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\22\22f90a0e36497aa7c9dc5fb07681b81d
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\22\22f90a0e36497aa7c9dc5fb07681b81d
+    projectPath: Library\Artifacts\22\22f90a0e36497aa7c9dc5fb07681b81d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\23\23318cf341f8825ea7fcbbc8c3c438ef
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\23\23318cf341f8825ea7fcbbc8c3c438ef
+    projectPath: Library\Artifacts\23\23318cf341f8825ea7fcbbc8c3c438ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\23\2334bfefafab596df6a6354c5b3432c3
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\23\2334bfefafab596df6a6354c5b3432c3
+    projectPath: Library\Artifacts\23\2334bfefafab596df6a6354c5b3432c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\24\248b8c5f3cfcea63939e4b197314a851
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\24\248b8c5f3cfcea63939e4b197314a851
+    projectPath: Library\Artifacts\24\248b8c5f3cfcea63939e4b197314a851
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\25\2537c673e7451cf205c6541aec601219
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\25\2537c673e7451cf205c6541aec601219
+    projectPath: Library\Artifacts\25\2537c673e7451cf205c6541aec601219
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\26\2645c4c123a0c91ffeb2bdfa46f4e584
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\26\2645c4c123a0c91ffeb2bdfa46f4e584
+    projectPath: Library\Artifacts\26\2645c4c123a0c91ffeb2bdfa46f4e584
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\28\2844dbe7799a886ef306241518bde68b
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\28\2844dbe7799a886ef306241518bde68b
+    projectPath: Library\Artifacts\28\2844dbe7799a886ef306241518bde68b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\28\288dc912c9b97555182d6cd571e5592c
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\28\288dc912c9b97555182d6cd571e5592c
+    projectPath: Library\Artifacts\28\288dc912c9b97555182d6cd571e5592c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\29\29ce7afdd7623c82fbcdee0d49a1b411
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\29\29ce7afdd7623c82fbcdee0d49a1b411
+    projectPath: Library\Artifacts\29\29ce7afdd7623c82fbcdee0d49a1b411
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\2a\2a4a899d701ae8fb5a6ec7afc9abac87
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\2a\2a4a899d701ae8fb5a6ec7afc9abac87
+    projectPath: Library\Artifacts\2a\2a4a899d701ae8fb5a6ec7afc9abac87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\2b\2b06582e22b59fc1f3667a66651ec2ed
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\2b\2b06582e22b59fc1f3667a66651ec2ed
+    projectPath: Library\Artifacts\2b\2b06582e22b59fc1f3667a66651ec2ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\2b\2b06a33d33035a7a65700cc3bc95c399
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\2b\2b06a33d33035a7a65700cc3bc95c399
+    projectPath: Library\Artifacts\2b\2b06a33d33035a7a65700cc3bc95c399
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\2c\2c98df966e730cd4edb5f8227cc17cc7
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\2c\2c98df966e730cd4edb5f8227cc17cc7
+    projectPath: Library\Artifacts\2c\2c98df966e730cd4edb5f8227cc17cc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\30\30da0b852c027f5b52debcea035267ad
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\30\30da0b852c027f5b52debcea035267ad
+    projectPath: Library\Artifacts\30\30da0b852c027f5b52debcea035267ad
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Kaindorfs\Library\Artifacts\31\31f770cd546ff5b4f2b2766eef9f7fe8
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\31\31f770cd546ff5b4f2b2766eef9f7fe8
     projectPath: Library\Artifacts\31\31f770cd546ff5b4f2b2766eef9f7fe8
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\32\32c921e067a67ca8269b6e68e034dfc4
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\32\32c921e067a67ca8269b6e68e034dfc4
+    projectPath: Library\Artifacts\32\32c921e067a67ca8269b6e68e034dfc4
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\32\323005fc4806962846633d6241561aef
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\32\323005fc4806962846633d6241561aef
-    projectPath: Library\Artifacts\32\323005fc4806962846633d6241561aef
+  - path: Kaindorfs\Library\Artifacts\32\32f57c1a19e58eb9494707bd9f760e0a
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\32\32f57c1a19e58eb9494707bd9f760e0a
+    projectPath: Library\Artifacts\32\32f57c1a19e58eb9494707bd9f760e0a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\33\333094c070179bca87ea6b742c2c23d9
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\33\333094c070179bca87ea6b742c2c23d9
+    projectPath: Library\Artifacts\33\333094c070179bca87ea6b742c2c23d9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Library\Artifacts\3a\3a29ae0411730a31e9020edb117b4834
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\3a\3a29ae0411730a31e9020edb117b4834
-    projectPath: Library\Artifacts\3a\3a29ae0411730a31e9020edb117b4834
+  - path: Kaindorfs\Library\Artifacts\33\334317187ff77976dde6a7d8f808569a
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\33\334317187ff77976dde6a7d8f808569a
+    projectPath: Library\Artifacts\33\334317187ff77976dde6a7d8f808569a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\3c\3ca03e5449d45204c726779a4df80467
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\3c\3ca03e5449d45204c726779a4df80467
-    projectPath: Library\Artifacts\3c\3ca03e5449d45204c726779a4df80467
+  - path: Kaindorfs\Library\Artifacts\33\335773eb67baeb64862e078316f3a2ab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\33\335773eb67baeb64862e078316f3a2ab
+    projectPath: Library\Artifacts\33\335773eb67baeb64862e078316f3a2ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\34\34acbe4c5ac7d04ef4bb0771e27f823f
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\34\34acbe4c5ac7d04ef4bb0771e27f823f
+    projectPath: Library\Artifacts\34\34acbe4c5ac7d04ef4bb0771e27f823f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\36\36e882768e0fcd04a1050f2c7f6b69e6
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\36\36e882768e0fcd04a1050f2c7f6b69e6
+    projectPath: Library\Artifacts\36\36e882768e0fcd04a1050f2c7f6b69e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\37\374d1758dc30a9a103293096aab895f2
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\37\374d1758dc30a9a103293096aab895f2
+    projectPath: Library\Artifacts\37\374d1758dc30a9a103293096aab895f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\38\38c3b6ac6cb3dcb14592ec5d277031a2
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\38\38c3b6ac6cb3dcb14592ec5d277031a2
+    projectPath: Library\Artifacts\38\38c3b6ac6cb3dcb14592ec5d277031a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\3a\3a71f68cc7c8a889e5f0c0be461ea9df
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\3a\3a71f68cc7c8a889e5f0c0be461ea9df
+    projectPath: Library\Artifacts\3a\3a71f68cc7c8a889e5f0c0be461ea9df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\3b\3b9af0dac38d2dda8dc30d6dbeda3063
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\3b\3b9af0dac38d2dda8dc30d6dbeda3063
+    projectPath: Library\Artifacts\3b\3b9af0dac38d2dda8dc30d6dbeda3063
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Library\Artifacts\41\416beb1e066969c0116290ce798c5ae5
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\41\416beb1e066969c0116290ce798c5ae5
-    projectPath: Library\Artifacts\41\416beb1e066969c0116290ce798c5ae5
+  - path: Kaindorfs\Library\Artifacts\3c\3cc278a1c7cf230f1e94512b59534181
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\3c\3cc278a1c7cf230f1e94512b59534181
+    projectPath: Library\Artifacts\3c\3cc278a1c7cf230f1e94512b59534181
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\45\45351cd95a2e4b5c34e3337df2fec1a9
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\45\45351cd95a2e4b5c34e3337df2fec1a9
-    projectPath: Library\Artifacts\45\45351cd95a2e4b5c34e3337df2fec1a9
+  - path: Kaindorfs\Library\Artifacts\3f\3f94ed17432c34c82457f5720f2750fd
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\3f\3f94ed17432c34c82457f5720f2750fd
+    projectPath: Library\Artifacts\3f\3f94ed17432c34c82457f5720f2750fd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\47\47412d003c5ffe05c9fc73a49226932c
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\47\47412d003c5ffe05c9fc73a49226932c
-    projectPath: Library\Artifacts\47\47412d003c5ffe05c9fc73a49226932c
+  - path: Kaindorfs\Library\Artifacts\40\4024d704b492c26248228fc84e355bf8
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\40\4024d704b492c26248228fc84e355bf8
+    projectPath: Library\Artifacts\40\4024d704b492c26248228fc84e355bf8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\40\4077413f9f31a41096810d63217eb7a7
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\40\4077413f9f31a41096810d63217eb7a7
+    projectPath: Library\Artifacts\40\4077413f9f31a41096810d63217eb7a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\41\4197b7c7d19c38bb33ea6100481a3772
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\41\4197b7c7d19c38bb33ea6100481a3772
+    projectPath: Library\Artifacts\41\4197b7c7d19c38bb33ea6100481a3772
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Library\Artifacts\49\49964f2c2b748b048ed404a5ea919cdb
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\49\49964f2c2b748b048ed404a5ea919cdb
-    projectPath: Library\Artifacts\49\49964f2c2b748b048ed404a5ea919cdb
+  - path: Kaindorfs\Library\Artifacts\43\43a0b5b26bae7694e097d3961f36ee09
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\43\43a0b5b26bae7694e097d3961f36ee09
+    projectPath: Library\Artifacts\43\43a0b5b26bae7694e097d3961f36ee09
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\4b\4b6cb37e6ad4ccee8455c6f0319d819f
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\4b\4b6cb37e6ad4ccee8455c6f0319d819f
-    projectPath: Library\Artifacts\4b\4b6cb37e6ad4ccee8455c6f0319d819f
+  - path: Kaindorfs\Library\Artifacts\44\44ab6366e1a7e90f282668a696e02bd3
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\44\44ab6366e1a7e90f282668a696e02bd3
+    projectPath: Library\Artifacts\44\44ab6366e1a7e90f282668a696e02bd3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\4f\4f7a26a9350fdfe340cca942a19852dc
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\4f\4f7a26a9350fdfe340cca942a19852dc
-    projectPath: Library\Artifacts\4f\4f7a26a9350fdfe340cca942a19852dc
+  - path: Kaindorfs\Library\Artifacts\4a\4ad896db9ee41cf41a504c39b2030cf0
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\4a\4ad896db9ee41cf41a504c39b2030cf0
+    projectPath: Library\Artifacts\4a\4ad896db9ee41cf41a504c39b2030cf0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\4b\4bc279f60276b434b277d02dcb95536a
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\4b\4bc279f60276b434b277d02dcb95536a
+    projectPath: Library\Artifacts\4b\4bc279f60276b434b277d02dcb95536a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\4e\4ee48ccfd5515539973362815f8f1eed
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\4e\4ee48ccfd5515539973362815f8f1eed
+    projectPath: Library\Artifacts\4e\4ee48ccfd5515539973362815f8f1eed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\50\506337e6361520e419004d12c2395273
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\50\506337e6361520e419004d12c2395273
+    projectPath: Library\Artifacts\50\506337e6361520e419004d12c2395273
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\51\5155664d508fcb3358a07e55e2748fd3
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\51\5155664d508fcb3358a07e55e2748fd3
+    projectPath: Library\Artifacts\51\5155664d508fcb3358a07e55e2748fd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\51\519102c63a9b12c9c8663a18296a499b
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\51\519102c63a9b12c9c8663a18296a499b
+    projectPath: Library\Artifacts\51\519102c63a9b12c9c8663a18296a499b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\57\572732732bfafbd5550f019403cb6e72
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\57\572732732bfafbd5550f019403cb6e72
+    projectPath: Library\Artifacts\57\572732732bfafbd5550f019403cb6e72
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -471,11 +1680,23 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\57\5772e4f55449af20c76f359c6fa2bf69
     projectPath: Library\Artifacts\57\5772e4f55449af20c76f359c6fa2bf69
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Library\Artifacts\57\57b69f62c54df94627ac1cdb0f27102d
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\57\57b69f62c54df94627ac1cdb0f27102d
     projectPath: Library\Artifacts\57\57b69f62c54df94627ac1cdb0f27102d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\59\59a3bf0a1e6be45d8419606d1f37e9dd
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\59\59a3bf0a1e6be45d8419606d1f37e9dd
+    projectPath: Library\Artifacts\59\59a3bf0a1e6be45d8419606d1f37e9dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\5a\5ad022d639c7d8307662dc3e68c03f10
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\5a\5ad022d639c7d8307662dc3e68c03f10
+    projectPath: Library\Artifacts\5a\5ad022d639c7d8307662dc3e68c03f10
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -483,23 +1704,95 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\5b\5b415d59aa6ac89462685818239df0e0
     projectPath: Library\Artifacts\5b\5b415d59aa6ac89462685818239df0e0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Library\Artifacts\5b\5b9c0dc3e94ba92d6202adae8b6212cc
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\5b\5b9c0dc3e94ba92d6202adae8b6212cc
     projectPath: Library\Artifacts\5b\5b9c0dc3e94ba92d6202adae8b6212cc
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\5c\5c712b2c149ef891689491e5cb9be1bf
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\5c\5c712b2c149ef891689491e5cb9be1bf
+    projectPath: Library\Artifacts\5c\5c712b2c149ef891689491e5cb9be1bf
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\60\6002f6656436a0ed3b95c75ad6021c39
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\60\6002f6656436a0ed3b95c75ad6021c39
-    projectPath: Library\Artifacts\60\6002f6656436a0ed3b95c75ad6021c39
+  - path: Kaindorfs\Library\Artifacts\5d\5d044fd8f6ec289f582f4680aa18f0f0
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\5d\5d044fd8f6ec289f582f4680aa18f0f0
+    projectPath: Library\Artifacts\5d\5d044fd8f6ec289f582f4680aa18f0f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\5e\5e0a2b77718695fe1dc48b172d1d446d
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\5e\5e0a2b77718695fe1dc48b172d1d446d
+    projectPath: Library\Artifacts\5e\5e0a2b77718695fe1dc48b172d1d446d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\5f\5f1b3f3944732cc5021f5b0bcd27b979
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\5f\5f1b3f3944732cc5021f5b0bcd27b979
+    projectPath: Library\Artifacts\5f\5f1b3f3944732cc5021f5b0bcd27b979
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\5f\5f30c76530119b5af8de28abebf96627
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\5f\5f30c76530119b5af8de28abebf96627
+    projectPath: Library\Artifacts\5f\5f30c76530119b5af8de28abebf96627
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\60\605477ce7d3f5330858be6fc3fb6852b
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\60\605477ce7d3f5330858be6fc3fb6852b
+    projectPath: Library\Artifacts\60\605477ce7d3f5330858be6fc3fb6852b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Library\Artifacts\61\61ec579fe58d92548d6fba202eb89bf2
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\61\61ec579fe58d92548d6fba202eb89bf2
-    projectPath: Library\Artifacts\61\61ec579fe58d92548d6fba202eb89bf2
+  - path: Kaindorfs\Library\Artifacts\60\60e70371f33d5cbf7b8740f1fc9d0c90
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\60\60e70371f33d5cbf7b8740f1fc9d0c90
+    projectPath: Library\Artifacts\60\60e70371f33d5cbf7b8740f1fc9d0c90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\61\618155b01bb4c94bb1d6dcd848fc83bd
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\61\618155b01bb4c94bb1d6dcd848fc83bd
+    projectPath: Library\Artifacts\61\618155b01bb4c94bb1d6dcd848fc83bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\61\619e47a18b668610d0e4ad51c64f77bd
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\61\619e47a18b668610d0e4ad51c64f77bd
+    projectPath: Library\Artifacts\61\619e47a18b668610d0e4ad51c64f77bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\62\620be36ff7e5b4c824680ec20b7b72f0
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\62\620be36ff7e5b4c824680ec20b7b72f0
+    projectPath: Library\Artifacts\62\620be36ff7e5b4c824680ec20b7b72f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\62\6237274ff56499defa0850e036920378
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\62\6237274ff56499defa0850e036920378
+    projectPath: Library\Artifacts\62\6237274ff56499defa0850e036920378
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\62\62d2eab2c213df6445a5a56b6274ae10
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\62\62d2eab2c213df6445a5a56b6274ae10
+    projectPath: Library\Artifacts\62\62d2eab2c213df6445a5a56b6274ae10
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\64\642acd150ca6a2c3d2bae0bb7b8d6653
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\64\642acd150ca6a2c3d2bae0bb7b8d6653
+    projectPath: Library\Artifacts\64\642acd150ca6a2c3d2bae0bb7b8d6653
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\64\643bf15e900f4d3b0b4a39b4df2e3411
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\64\643bf15e900f4d3b0b4a39b4df2e3411
+    projectPath: Library\Artifacts\64\643bf15e900f4d3b0b4a39b4df2e3411
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -507,23 +1800,35 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\66\66064ddac3d9d7a1b70553ff06d98863
     projectPath: Library\Artifacts\66\66064ddac3d9d7a1b70553ff06d98863
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\67\672f934a95789a218aa2af038d3a4b6f
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\67\672f934a95789a218aa2af038d3a4b6f
+    projectPath: Library\Artifacts\67\672f934a95789a218aa2af038d3a4b6f
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\67\677864c0efc80ac6a0c7d5f07fa6d9c7
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\67\677864c0efc80ac6a0c7d5f07fa6d9c7
+    projectPath: Library\Artifacts\67\677864c0efc80ac6a0c7d5f07fa6d9c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Library\Artifacts\68\685b3a43ef37d280237bb5c97919a829
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\68\685b3a43ef37d280237bb5c97919a829
     projectPath: Library\Artifacts\68\685b3a43ef37d280237bb5c97919a829
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Library\Artifacts\68\686f7a381e214aca1e759e3a1cd204f1
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\68\686f7a381e214aca1e759e3a1cd204f1
     projectPath: Library\Artifacts\68\686f7a381e214aca1e759e3a1cd204f1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\6a\6aa4787834a41adc74c6bc0401217784
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6a\6aa4787834a41adc74c6bc0401217784
-    projectPath: Library\Artifacts\6a\6aa4787834a41adc74c6bc0401217784
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\6a\6a6e290c032e39f68f19294a3e692703
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6a\6a6e290c032e39f68f19294a3e692703
+    projectPath: Library\Artifacts\6a\6a6e290c032e39f68f19294a3e692703
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -531,41 +1836,125 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6a\6aafb943e2547fd0ca91f32894e1568d
     projectPath: Library\Artifacts\6a\6aafb943e2547fd0ca91f32894e1568d
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\6a\6ad1b78b672e0ce3dacfe98a6caf25ab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6a\6ad1b78b672e0ce3dacfe98a6caf25ab
+    projectPath: Library\Artifacts\6a\6ad1b78b672e0ce3dacfe98a6caf25ab
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\6f\6ff1c1bf861de9df05d2cb800300f1e9
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6f\6ff1c1bf861de9df05d2cb800300f1e9
-    projectPath: Library\Artifacts\6f\6ff1c1bf861de9df05d2cb800300f1e9
+  - path: Kaindorfs\Library\Artifacts\6b\6b04d3c1c4580a8661f2d61d78c03f66
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6b\6b04d3c1c4580a8661f2d61d78c03f66
+    projectPath: Library\Artifacts\6b\6b04d3c1c4580a8661f2d61d78c03f66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\6b\6b8267ba5d06ea0ff4db6a71b32f5d73
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6b\6b8267ba5d06ea0ff4db6a71b32f5d73
+    projectPath: Library\Artifacts\6b\6b8267ba5d06ea0ff4db6a71b32f5d73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\6c\6c29641fdfc8b3b978f5b7f30558b4ec
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6c\6c29641fdfc8b3b978f5b7f30558b4ec
+    projectPath: Library\Artifacts\6c\6c29641fdfc8b3b978f5b7f30558b4ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\6f\6f5cf2259f38303ac6be1472d3508fda
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6f\6f5cf2259f38303ac6be1472d3508fda
+    projectPath: Library\Artifacts\6f\6f5cf2259f38303ac6be1472d3508fda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\6f\6fb2586ca9b392754e7e396d3984b5ee
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\6f\6fb2586ca9b392754e7e396d3984b5ee
+    projectPath: Library\Artifacts\6f\6fb2586ca9b392754e7e396d3984b5ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\71\7112b15ccea35bcd7d7c95963e690dab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\71\7112b15ccea35bcd7d7c95963e690dab
+    projectPath: Library\Artifacts\71\7112b15ccea35bcd7d7c95963e690dab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\74\741e8a1d910c54cae4f4eaf15c983ee4
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\74\741e8a1d910c54cae4f4eaf15c983ee4
+    projectPath: Library\Artifacts\74\741e8a1d910c54cae4f4eaf15c983ee4
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Library\Artifacts\75\751e07717dc2da786836b722b8a76ca4
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\75\751e07717dc2da786836b722b8a76ca4
-    projectPath: Library\Artifacts\75\751e07717dc2da786836b722b8a76ca4
+  - path: Kaindorfs\Library\Artifacts\75\7581a979512edcddcda67e73ea26b3ab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\75\7581a979512edcddcda67e73ea26b3ab
+    projectPath: Library\Artifacts\75\7581a979512edcddcda67e73ea26b3ab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
-    projectPath: Library\Artifacts\75\75586ce86c34f2ec537b7f9cc58d69f5
+  - path: Kaindorfs\Library\Artifacts\7a\7a4b994cf4a26226847a9faeb5b9a3a7
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\7a\7a4b994cf4a26226847a9faeb5b9a3a7
+    projectPath: Library\Artifacts\7a\7a4b994cf4a26226847a9faeb5b9a3a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\7a\7adfe212247ca7bfef375602320671b2
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\7a\7adfe212247ca7bfef375602320671b2
+    projectPath: Library\Artifacts\7a\7adfe212247ca7bfef375602320671b2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\75\75e03087769cbdf13a4f17a83a5e4207
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\75\75e03087769cbdf13a4f17a83a5e4207
-    projectPath: Library\Artifacts\75\75e03087769cbdf13a4f17a83a5e4207
+  - path: Kaindorfs\Library\Artifacts\7c\7c0799dc7a64652c38b756a4b2d1c4f1
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\7c\7c0799dc7a64652c38b756a4b2d1c4f1
+    projectPath: Library\Artifacts\7c\7c0799dc7a64652c38b756a4b2d1c4f1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\79\799555a3b2d5967f5dc1c8b66acd243e
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\79\799555a3b2d5967f5dc1c8b66acd243e
-    projectPath: Library\Artifacts\79\799555a3b2d5967f5dc1c8b66acd243e
+  - path: Kaindorfs\Library\Artifacts\7e\7ed5af128ac7ee7e11b8ba23f6c28f6a
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\7e\7ed5af128ac7ee7e11b8ba23f6c28f6a
+    projectPath: Library\Artifacts\7e\7ed5af128ac7ee7e11b8ba23f6c28f6a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\7b\7b9aae64dbf234c67ec8a47b84e9c5e3
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\7b\7b9aae64dbf234c67ec8a47b84e9c5e3
-    projectPath: Library\Artifacts\7b\7b9aae64dbf234c67ec8a47b84e9c5e3
+  - path: Kaindorfs\Library\Artifacts\81\81637363547d4163657edfe39a2f3ff5
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\81\81637363547d4163657edfe39a2f3ff5
+    projectPath: Library\Artifacts\81\81637363547d4163657edfe39a2f3ff5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\81\81cc420ee26f62a3c68de99bee268c5c
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\81\81cc420ee26f62a3c68de99bee268c5c
+    projectPath: Library\Artifacts\81\81cc420ee26f62a3c68de99bee268c5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\83\836fb9491e13159535f9ea35b98340ab
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\83\836fb9491e13159535f9ea35b98340ab
+    projectPath: Library\Artifacts\83\836fb9491e13159535f9ea35b98340ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\83\837acd53dc6fd586b3577db008ab4d63
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\83\837acd53dc6fd586b3577db008ab4d63
+    projectPath: Library\Artifacts\83\837acd53dc6fd586b3577db008ab4d63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\85\858a01d271d854356297497f64a0c1ec
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\85\858a01d271d854356297497f64a0c1ec
+    projectPath: Library\Artifacts\85\858a01d271d854356297497f64a0c1ec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\86\86b9f9ca1242fa9c1b3de9985a6385fe
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\86\86b9f9ca1242fa9c1b3de9985a6385fe
+    projectPath: Library\Artifacts\86\86b9f9ca1242fa9c1b3de9985a6385fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\87\877f8c9ea2bc7ec13b582c7fdaf16853
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\87\877f8c9ea2bc7ec13b582c7fdaf16853
+    projectPath: Library\Artifacts\87\877f8c9ea2bc7ec13b582c7fdaf16853
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -573,29 +1962,113 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\88\88019496ee47e6af36ee6bd0507957e0
     projectPath: Library\Artifacts\88\88019496ee47e6af36ee6bd0507957e0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\92\92a68a5dc62e68abc02c60a285940e7d
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\92\92a68a5dc62e68abc02c60a285940e7d
-    projectPath: Library\Artifacts\92\92a68a5dc62e68abc02c60a285940e7d
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\88\8807124472a07666aaac4a9541021630
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\88\8807124472a07666aaac4a9541021630
+    projectPath: Library\Artifacts\88\8807124472a07666aaac4a9541021630
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\88\8886e0e15d77d22eb9df289be34a5cdf
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\88\8886e0e15d77d22eb9df289be34a5cdf
+    projectPath: Library\Artifacts\88\8886e0e15d77d22eb9df289be34a5cdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\88\88da9af21c353539c02b8bf543f35067
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\88\88da9af21c353539c02b8bf543f35067
+    projectPath: Library\Artifacts\88\88da9af21c353539c02b8bf543f35067
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\8a\8a09676494c05a8c5631e309956e5d59
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\8a\8a09676494c05a8c5631e309956e5d59
+    projectPath: Library\Artifacts\8a\8a09676494c05a8c5631e309956e5d59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\8a\8a25a85e1a8a45d416f35499d26bf3d7
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\8a\8a25a85e1a8a45d416f35499d26bf3d7
+    projectPath: Library\Artifacts\8a\8a25a85e1a8a45d416f35499d26bf3d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\8a\8ac6f56d961fbb73a89e4aff4f0ac760
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\8a\8ac6f56d961fbb73a89e4aff4f0ac760
+    projectPath: Library\Artifacts\8a\8ac6f56d961fbb73a89e4aff4f0ac760
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\8b\8b129636c4ce477e77f1139b1f671e30
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\8b\8b129636c4ce477e77f1139b1f671e30
+    projectPath: Library\Artifacts\8b\8b129636c4ce477e77f1139b1f671e30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\8c\8c4cd6143861d43f82d501b8e66c6707
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\8c\8c4cd6143861d43f82d501b8e66c6707
+    projectPath: Library\Artifacts\8c\8c4cd6143861d43f82d501b8e66c6707
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\8d\8d9e5ffb399037546730921fec2a0ced
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\8d\8d9e5ffb399037546730921fec2a0ced
+    projectPath: Library\Artifacts\8d\8d9e5ffb399037546730921fec2a0ced
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\8e\8e18a2ab19bdaa996c58ec918a8cec82
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\8e\8e18a2ab19bdaa996c58ec918a8cec82
+    projectPath: Library\Artifacts\8e\8e18a2ab19bdaa996c58ec918a8cec82
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Library\Artifacts\95\95dc820087c14a1f860b16c93d7b6879
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\95\95dc820087c14a1f860b16c93d7b6879
     projectPath: Library\Artifacts\95\95dc820087c14a1f860b16c93d7b6879
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\96\96f64984c0bc9fe702874b933998fb3f
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\96\96f64984c0bc9fe702874b933998fb3f
-    projectPath: Library\Artifacts\96\96f64984c0bc9fe702874b933998fb3f
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\97\97fac9558fba1aa742efc3718605fa65
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\97\97fac9558fba1aa742efc3718605fa65
+    projectPath: Library\Artifacts\97\97fac9558fba1aa742efc3718605fa65
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\9b\9ba5d2dc85399767c0b774456da91074
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\9b\9ba5d2dc85399767c0b774456da91074
-    projectPath: Library\Artifacts\9b\9ba5d2dc85399767c0b774456da91074
+  - path: Kaindorfs\Library\Artifacts\98\983ba80eff3b327c1f6998c8087ac347
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\98\983ba80eff3b327c1f6998c8087ac347
+    projectPath: Library\Artifacts\98\983ba80eff3b327c1f6998c8087ac347
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\98\98d61a37b546cc9cde6dd074dbda3e38
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\98\98d61a37b546cc9cde6dd074dbda3e38
+    projectPath: Library\Artifacts\98\98d61a37b546cc9cde6dd074dbda3e38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\99\99458b288eb35c43ef2d6deef8fc27f9
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\99\99458b288eb35c43ef2d6deef8fc27f9
+    projectPath: Library\Artifacts\99\99458b288eb35c43ef2d6deef8fc27f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\9b\9b1a53f46c9d2ff962ca97528b094c88
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\9b\9b1a53f46c9d2ff962ca97528b094c88
+    projectPath: Library\Artifacts\9b\9b1a53f46c9d2ff962ca97528b094c88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\9c\9cf0982b6fe8373c3fc50502d4b06a87
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\9c\9cf0982b6fe8373c3fc50502d4b06a87
+    projectPath: Library\Artifacts\9c\9cf0982b6fe8373c3fc50502d4b06a87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\9d\9d5d4fe76dd4d37ce1208dde8b06117c
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\9d\9d5d4fe76dd4d37ce1208dde8b06117c
+    projectPath: Library\Artifacts\9d\9d5d4fe76dd4d37ce1208dde8b06117c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -603,41 +2076,125 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\9e\9e2755e66c8a2812a79359092c5185dd
     projectPath: Library\Artifacts\9e\9e2755e66c8a2812a79359092c5185dd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\a6\a630a3843cd15e6eb2c3eae3237f0d3c
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a6\a630a3843cd15e6eb2c3eae3237f0d3c
-    projectPath: Library\Artifacts\a6\a630a3843cd15e6eb2c3eae3237f0d3c
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\9f\9f66b7d6205f49749735a2f9fb949084
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\9f\9f66b7d6205f49749735a2f9fb949084
+    projectPath: Library\Artifacts\9f\9f66b7d6205f49749735a2f9fb949084
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\a6\a6e49d06c4561992bb96c0405a3384be
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a6\a6e49d06c4561992bb96c0405a3384be
-    projectPath: Library\Artifacts\a6\a6e49d06c4561992bb96c0405a3384be
+  - path: Kaindorfs\Library\Artifacts\a0\a00d3b1629fc40d0ac7b9bc0c7da4ce9
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a0\a00d3b1629fc40d0ac7b9bc0c7da4ce9
+    projectPath: Library\Artifacts\a0\a00d3b1629fc40d0ac7b9bc0c7da4ce9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\ab\abf69b6e9c1407d83ce9d5c5f4e4c170
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ab\abf69b6e9c1407d83ce9d5c5f4e4c170
-    projectPath: Library\Artifacts\ab\abf69b6e9c1407d83ce9d5c5f4e4c170
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\ab\abffdfce5e5a3262e79c4384be4b5197
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ab\abffdfce5e5a3262e79c4384be4b5197
-    projectPath: Library\Artifacts\ab\abffdfce5e5a3262e79c4384be4b5197
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\ae\ae0f72f7db9008270c53e5b14bb31227
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ae\ae0f72f7db9008270c53e5b14bb31227
-    projectPath: Library\Artifacts\ae\ae0f72f7db9008270c53e5b14bb31227
+  - path: Kaindorfs\Library\Artifacts\a1\a1f1e550f2232e1307f4b4ea6da1deba
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a1\a1f1e550f2232e1307f4b4ea6da1deba
+    projectPath: Library\Artifacts\a1\a1f1e550f2232e1307f4b4ea6da1deba
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\a2\a23498bcbf3b4eb839be5a34b27cbc75
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a2\a23498bcbf3b4eb839be5a34b27cbc75
+    projectPath: Library\Artifacts\a2\a23498bcbf3b4eb839be5a34b27cbc75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\a4\a4bbe1ff410274f538bfc038d8ab6d38
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a4\a4bbe1ff410274f538bfc038d8ab6d38
+    projectPath: Library\Artifacts\a4\a4bbe1ff410274f538bfc038d8ab6d38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\a4\a4f9832227b3b3540dbe2777305348a9
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a4\a4f9832227b3b3540dbe2777305348a9
+    projectPath: Library\Artifacts\a4\a4f9832227b3b3540dbe2777305348a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\a5\a557712129982c66448de807a2b3e098
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a5\a557712129982c66448de807a2b3e098
+    projectPath: Library\Artifacts\a5\a557712129982c66448de807a2b3e098
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\a5\a59c3267d1e7bc0f60f8735acbee7bf6
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a5\a59c3267d1e7bc0f60f8735acbee7bf6
+    projectPath: Library\Artifacts\a5\a59c3267d1e7bc0f60f8735acbee7bf6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\a5\a5a232ac6059f381cd7ffbe2ff00e4bb
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a5\a5a232ac6059f381cd7ffbe2ff00e4bb
+    projectPath: Library\Artifacts\a5\a5a232ac6059f381cd7ffbe2ff00e4bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\a5\a5c5f0564aa3a4a23b36633110df18b3
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a5\a5c5f0564aa3a4a23b36633110df18b3
+    projectPath: Library\Artifacts\a5\a5c5f0564aa3a4a23b36633110df18b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\a6\a6f186eb74648f594c537a78caffb19d
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a6\a6f186eb74648f594c537a78caffb19d
+    projectPath: Library\Artifacts\a6\a6f186eb74648f594c537a78caffb19d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\a7\a7b84578779784cb4e653c561f00a652
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a7\a7b84578779784cb4e653c561f00a652
+    projectPath: Library\Artifacts\a7\a7b84578779784cb4e653c561f00a652
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\a8\a85d43c0a19e0b90d1a9a99d8106c260
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\a8\a85d43c0a19e0b90d1a9a99d8106c260
+    projectPath: Library\Artifacts\a8\a85d43c0a19e0b90d1a9a99d8106c260
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\ab\ab1401bdaeba6148def514268bda08db
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ab\ab1401bdaeba6148def514268bda08db
+    projectPath: Library\Artifacts\ab\ab1401bdaeba6148def514268bda08db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\ac\ac0d8ef829bd6b93204b3eb62f411e3b
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ac\ac0d8ef829bd6b93204b3eb62f411e3b
+    projectPath: Library\Artifacts\ac\ac0d8ef829bd6b93204b3eb62f411e3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\ad\adceb3fde2645426fd31ef9a5f91f94e
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ad\adceb3fde2645426fd31ef9a5f91f94e
+    projectPath: Library\Artifacts\ad\adceb3fde2645426fd31ef9a5f91f94e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\b0\b073c6be1840308d4503819eed156610
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b0\b073c6be1840308d4503819eed156610
+    projectPath: Library\Artifacts\b0\b073c6be1840308d4503819eed156610
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Kaindorfs\Library\Artifacts\b1\b1690ca45d71e4db26465ec4dc4bdc8f
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b1\b1690ca45d71e4db26465ec4dc4bdc8f
     projectPath: Library\Artifacts\b1\b1690ca45d71e4db26465ec4dc4bdc8f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\b2\b273df0a6104218601eebf03b8176688
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b2\b273df0a6104218601eebf03b8176688
+    projectPath: Library\Artifacts\b2\b273df0a6104218601eebf03b8176688
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\b3\b387db19d01bfc8d4233d2b6a548ed21
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b3\b387db19d01bfc8d4233d2b6a548ed21
+    projectPath: Library\Artifacts\b3\b387db19d01bfc8d4233d2b6a548ed21
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -645,29 +2202,179 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b4\b4493e7edc45c2d02ed9e9935655c1c3
     projectPath: Library\Artifacts\b4\b4493e7edc45c2d02ed9e9935655c1c3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Library\Artifacts\b4\b4e2989c1d68d112dc2a5d5f25dd22ce
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b4\b4e2989c1d68d112dc2a5d5f25dd22ce
     projectPath: Library\Artifacts\b4\b4e2989c1d68d112dc2a5d5f25dd22ce
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\b7\b7a6283be690861551264b60f165c712
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b7\b7a6283be690861551264b60f165c712
-    projectPath: Library\Artifacts\b7\b7a6283be690861551264b60f165c712
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\b5\b5f29cda0c8cfc3e81de594246ae8d3d
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b5\b5f29cda0c8cfc3e81de594246ae8d3d
+    projectPath: Library\Artifacts\b5\b5f29cda0c8cfc3e81de594246ae8d3d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\cc\cc064f41d1585901943301f746c8de74
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\cc\cc064f41d1585901943301f746c8de74
-    projectPath: Library\Artifacts\cc\cc064f41d1585901943301f746c8de74
+  - path: Kaindorfs\Library\Artifacts\b6\b66ca6450c9e5d718bf75f7e5c41e3f1
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b6\b66ca6450c9e5d718bf75f7e5c41e3f1
+    projectPath: Library\Artifacts\b6\b66ca6450c9e5d718bf75f7e5c41e3f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\b7\b7820b74a99ac97ea7b4f067a1b598d5
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b7\b7820b74a99ac97ea7b4f067a1b598d5
+    projectPath: Library\Artifacts\b7\b7820b74a99ac97ea7b4f067a1b598d5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\ce\ceebf7c79a048210cbbaf782d5736394
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ce\ceebf7c79a048210cbbaf782d5736394
-    projectPath: Library\Artifacts\ce\ceebf7c79a048210cbbaf782d5736394
+  - path: Kaindorfs\Library\Artifacts\b8\b8c6a3721123918a49f6bf888404e1b1
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b8\b8c6a3721123918a49f6bf888404e1b1
+    projectPath: Library\Artifacts\b8\b8c6a3721123918a49f6bf888404e1b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\b8\b8e7e60f4240861878a98256bac24301
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b8\b8e7e60f4240861878a98256bac24301
+    projectPath: Library\Artifacts\b8\b8e7e60f4240861878a98256bac24301
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\b9\b92ba939831f4c2702bc6b5e706f3230
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\b9\b92ba939831f4c2702bc6b5e706f3230
+    projectPath: Library\Artifacts\b9\b92ba939831f4c2702bc6b5e706f3230
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\bb\bb605fc1b7476271a14948e0bf8821c1
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\bb\bb605fc1b7476271a14948e0bf8821c1
+    projectPath: Library\Artifacts\bb\bb605fc1b7476271a14948e0bf8821c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\bc\bc06c7a899b88e0c0cf0614d54914358
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\bc\bc06c7a899b88e0c0cf0614d54914358
+    projectPath: Library\Artifacts\bc\bc06c7a899b88e0c0cf0614d54914358
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\bc\bc1d445e82651af0b3f622dccc1b9c03
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\bc\bc1d445e82651af0b3f622dccc1b9c03
+    projectPath: Library\Artifacts\bc\bc1d445e82651af0b3f622dccc1b9c03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\bc\bc7942c96d0d50a48ecedb787c440502
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\bc\bc7942c96d0d50a48ecedb787c440502
+    projectPath: Library\Artifacts\bc\bc7942c96d0d50a48ecedb787c440502
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\be\be9752f93d7ce4793f65254748bb2c29
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\be\be9752f93d7ce4793f65254748bb2c29
+    projectPath: Library\Artifacts\be\be9752f93d7ce4793f65254748bb2c29
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\be\befdfeb5ba45abb686e4d9d680531edf
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\be\befdfeb5ba45abb686e4d9d680531edf
+    projectPath: Library\Artifacts\be\befdfeb5ba45abb686e4d9d680531edf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\c0\c0e426f08ff47bcfd28eae51bed0a06d
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\c0\c0e426f08ff47bcfd28eae51bed0a06d
+    projectPath: Library\Artifacts\c0\c0e426f08ff47bcfd28eae51bed0a06d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\c1\c18d5f460ad370a2219303c73f9d1b7a
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\c1\c18d5f460ad370a2219303c73f9d1b7a
+    projectPath: Library\Artifacts\c1\c18d5f460ad370a2219303c73f9d1b7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\c1\c1edd57d5dbfb9d63853867c9ed7813c
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\c1\c1edd57d5dbfb9d63853867c9ed7813c
+    projectPath: Library\Artifacts\c1\c1edd57d5dbfb9d63853867c9ed7813c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\c3\c38b95ae5a05251175e0ae5db9ac0976
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\c3\c38b95ae5a05251175e0ae5db9ac0976
+    projectPath: Library\Artifacts\c3\c38b95ae5a05251175e0ae5db9ac0976
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\c5\c56063b5762b845bd4b1fc71e113c559
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\c5\c56063b5762b845bd4b1fc71e113c559
+    projectPath: Library\Artifacts\c5\c56063b5762b845bd4b1fc71e113c559
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\c5\c5b1653cf5015360ee0fcd442019259a
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\c5\c5b1653cf5015360ee0fcd442019259a
+    projectPath: Library\Artifacts\c5\c5b1653cf5015360ee0fcd442019259a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\c7\c79ff04ba746f2a2760a8cc97556f03f
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\c7\c79ff04ba746f2a2760a8cc97556f03f
+    projectPath: Library\Artifacts\c7\c79ff04ba746f2a2760a8cc97556f03f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\c8\c8fc4096561fab610865c79eab1277ff
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\c8\c8fc4096561fab610865c79eab1277ff
+    projectPath: Library\Artifacts\c8\c8fc4096561fab610865c79eab1277ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\ca\caaca62f374ee3904c56fdf08bb2b3cd
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ca\caaca62f374ee3904c56fdf08bb2b3cd
+    projectPath: Library\Artifacts\ca\caaca62f374ee3904c56fdf08bb2b3cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\cc\ccfa29b7f1b85fa23fda4896936a39d0
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\cc\ccfa29b7f1b85fa23fda4896936a39d0
+    projectPath: Library\Artifacts\cc\ccfa29b7f1b85fa23fda4896936a39d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\cd\cd7c1fe87092a5ff6766d54b1aa94667
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\cd\cd7c1fe87092a5ff6766d54b1aa94667
+    projectPath: Library\Artifacts\cd\cd7c1fe87092a5ff6766d54b1aa94667
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\cd\cde4a529b93be722e95cff4527dce812
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\cd\cde4a529b93be722e95cff4527dce812
+    projectPath: Library\Artifacts\cd\cde4a529b93be722e95cff4527dce812
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\cf\cfc360dc2d78dab9d7c1b0ce44c9b6c2
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\cf\cfc360dc2d78dab9d7c1b0ce44c9b6c2
+    projectPath: Library\Artifacts\cf\cfc360dc2d78dab9d7c1b0ce44c9b6c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\d2\d243c5236f0c102e2617b1ad04618182
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\d2\d243c5236f0c102e2617b1ad04618182
+    projectPath: Library\Artifacts\d2\d243c5236f0c102e2617b1ad04618182
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\d3\d364337203141fe2b334bdd26a8ebd2f
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\d3\d364337203141fe2b334bdd26a8ebd2f
+    projectPath: Library\Artifacts\d3\d364337203141fe2b334bdd26a8ebd2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\d5\d54843540ae8bc85e40189c181ac89a5
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\d5\d54843540ae8bc85e40189c181ac89a5
+    projectPath: Library\Artifacts\d5\d54843540ae8bc85e40189c181ac89a5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -675,29 +2382,77 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\d5\d592fd76da0e8a87fcd348ab981d4223
     projectPath: Library\Artifacts\d5\d592fd76da0e8a87fcd348ab981d4223
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\d5\d5c6864bc76bf00d2d00c22aa64c3704
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\d5\d5c6864bc76bf00d2d00c22aa64c3704
-    projectPath: Library\Artifacts\d5\d5c6864bc76bf00d2d00c22aa64c3704
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Library\Artifacts\d5\d5cf000c1d58c53197426c7db7ca20a4
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\d5\d5cf000c1d58c53197426c7db7ca20a4
     projectPath: Library\Artifacts\d5\d5cf000c1d58c53197426c7db7ca20a4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\db\dbb6f2fc59afe07c27f75feec10070c9
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\db\dbb6f2fc59afe07c27f75feec10070c9
-    projectPath: Library\Artifacts\db\dbb6f2fc59afe07c27f75feec10070c9
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\d7\d7cb112dbfc1b0c0e1190287b23ff42e
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\d7\d7cb112dbfc1b0c0e1190287b23ff42e
+    projectPath: Library\Artifacts\d7\d7cb112dbfc1b0c0e1190287b23ff42e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Kaindorfs\Library\Artifacts\e3\e3228b53fcb02b4c54b5eea61a7a9eba
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e3\e3228b53fcb02b4c54b5eea61a7a9eba
-    projectPath: Library\Artifacts\e3\e3228b53fcb02b4c54b5eea61a7a9eba
+  - path: Kaindorfs\Library\Artifacts\dc\dce42d8be0d8eca0e5d2f0d042343001
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\dc\dce42d8be0d8eca0e5d2f0d042343001
+    projectPath: Library\Artifacts\dc\dce42d8be0d8eca0e5d2f0d042343001
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\dd\dd0ef89b5aa2d6c4cbe9c2d43fae58ce
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\dd\dd0ef89b5aa2d6c4cbe9c2d43fae58ce
+    projectPath: Library\Artifacts\dd\dd0ef89b5aa2d6c4cbe9c2d43fae58ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\dd\ddb88fa6b1e94da5ca5eb7287e38abe9
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\dd\ddb88fa6b1e94da5ca5eb7287e38abe9
+    projectPath: Library\Artifacts\dd\ddb88fa6b1e94da5ca5eb7287e38abe9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\de\de54b0455ba0f136dba16752c8d4ec58
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\de\de54b0455ba0f136dba16752c8d4ec58
+    projectPath: Library\Artifacts\de\de54b0455ba0f136dba16752c8d4ec58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\df\dfaeb1c8737fc3109823d28acf06a252
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\df\dfaeb1c8737fc3109823d28acf06a252
+    projectPath: Library\Artifacts\df\dfaeb1c8737fc3109823d28acf06a252
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\e0\e0ba4f267ba108494772f2328a7c1e56
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e0\e0ba4f267ba108494772f2328a7c1e56
+    projectPath: Library\Artifacts\e0\e0ba4f267ba108494772f2328a7c1e56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e0\e0f49a40c3e8af4cb3faeb936cccee74
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e0\e0f49a40c3e8af4cb3faeb936cccee74
+    projectPath: Library\Artifacts\e0\e0f49a40c3e8af4cb3faeb936cccee74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e1\e14c08b33f0ed5e9c864a5612f682887
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e1\e14c08b33f0ed5e9c864a5612f682887
+    projectPath: Library\Artifacts\e1\e14c08b33f0ed5e9c864a5612f682887
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e1\e1b8c2182622462ee359cec9f2583c64
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e1\e1b8c2182622462ee359cec9f2583c64
+    projectPath: Library\Artifacts\e1\e1b8c2182622462ee359cec9f2583c64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e2\e25dd31c048396d19f492b3505875889
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e2\e25dd31c048396d19f492b3505875889
+    projectPath: Library\Artifacts\e2\e25dd31c048396d19f492b3505875889
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -705,47 +2460,131 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e3\e3772298417940c166507be4b9f795aa
     projectPath: Library\Artifacts\e3\e3772298417940c166507be4b9f795aa
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Kaindorfs\Library\Artifacts\e3\e37f0c24d8557f8aec7882a1ed12e98d
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e3\e37f0c24d8557f8aec7882a1ed12e98d
     projectPath: Library\Artifacts\e3\e37f0c24d8557f8aec7882a1ed12e98d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\e6\e646c687ffc71c0faac94f9a131c9879
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e6\e646c687ffc71c0faac94f9a131c9879
-    projectPath: Library\Artifacts\e6\e646c687ffc71c0faac94f9a131c9879
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\e3\e3b53165d3370f9162da3c81f1bfa229
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e3\e3b53165d3370f9162da3c81f1bfa229
+    projectPath: Library\Artifacts\e3\e3b53165d3370f9162da3c81f1bfa229
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\eb\ebfaa1cda1a8f211fddd487e3c16f942
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\eb\ebfaa1cda1a8f211fddd487e3c16f942
-    projectPath: Library\Artifacts\eb\ebfaa1cda1a8f211fddd487e3c16f942
+  - path: Kaindorfs\Library\Artifacts\e4\e4e859be152b4859b94090e45e272849
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e4\e4e859be152b4859b94090e45e272849
+    projectPath: Library\Artifacts\e4\e4e859be152b4859b94090e45e272849
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e5\e5104dfbb1d8049a42df6e3ffad51660
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e5\e5104dfbb1d8049a42df6e3ffad51660
+    projectPath: Library\Artifacts\e5\e5104dfbb1d8049a42df6e3ffad51660
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e5\e51d2ea2582c390ed0fd9f6dfeb54a72
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e5\e51d2ea2582c390ed0fd9f6dfeb54a72
+    projectPath: Library\Artifacts\e5\e51d2ea2582c390ed0fd9f6dfeb54a72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e5\e56ee6960ab4b859b573b2781f051909
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e5\e56ee6960ab4b859b573b2781f051909
+    projectPath: Library\Artifacts\e5\e56ee6960ab4b859b573b2781f051909
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e6\e64c64aa0a0a04a2e38f4a495bed2da5
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e6\e64c64aa0a0a04a2e38f4a495bed2da5
+    projectPath: Library\Artifacts\e6\e64c64aa0a0a04a2e38f4a495bed2da5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e6\e6aff7097061226980dacf674a15e8f4
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e6\e6aff7097061226980dacf674a15e8f4
+    projectPath: Library\Artifacts\e6\e6aff7097061226980dacf674a15e8f4
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\e7\e728b61efdee790ef69855505333fbf6
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e7\e728b61efdee790ef69855505333fbf6
+    projectPath: Library\Artifacts\e7\e728b61efdee790ef69855505333fbf6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e7\e7e79f442b4004802e3c629fbe85a606
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e7\e7e79f442b4004802e3c629fbe85a606
+    projectPath: Library\Artifacts\e7\e7e79f442b4004802e3c629fbe85a606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e9\e9b768b3db0c5706f6cd25d9cf9b1454
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e9\e9b768b3db0c5706f6cd25d9cf9b1454
+    projectPath: Library\Artifacts\e9\e9b768b3db0c5706f6cd25d9cf9b1454
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e9\e9eb870c55e7bdc5c208636ef9480dc3
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e9\e9eb870c55e7bdc5c208636ef9480dc3
+    projectPath: Library\Artifacts\e9\e9eb870c55e7bdc5c208636ef9480dc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\e9\e9ff18cf3dd6a209a6df9244908cd11b
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\e9\e9ff18cf3dd6a209a6df9244908cd11b
+    projectPath: Library\Artifacts\e9\e9ff18cf3dd6a209a6df9244908cd11b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\ec\ec3e85ea639e50c4096ef1114e8de13a
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ec\ec3e85ea639e50c4096ef1114e8de13a
+    projectPath: Library\Artifacts\ec\ec3e85ea639e50c4096ef1114e8de13a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\ee\ee1ac11e607702cde86df03461f14474
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ee\ee1ac11e607702cde86df03461f14474
+    projectPath: Library\Artifacts\ee\ee1ac11e607702cde86df03461f14474
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Kaindorfs\Library\Artifacts\ef\ef6bbd7cc5bae948093f2c14ce9eca13
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ef\ef6bbd7cc5bae948093f2c14ce9eca13
     projectPath: Library\Artifacts\ef\ef6bbd7cc5bae948093f2c14ce9eca13
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\f1\f1a64622267e6794ab755e71baf95991
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\f1\f1a64622267e6794ab755e71baf95991
-    projectPath: Library\Artifacts\f1\f1a64622267e6794ab755e71baf95991
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\f4\f484ab418ce1e46c600da75429538a71
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\f4\f484ab418ce1e46c600da75429538a71
+    projectPath: Library\Artifacts\f4\f484ab418ce1e46c600da75429538a71
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\f9\f9f48bba5bc87855ff7490767cc51730
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\f9\f9f48bba5bc87855ff7490767cc51730
-    projectPath: Library\Artifacts\f9\f9f48bba5bc87855ff7490767cc51730
+  - path: Kaindorfs\Library\Artifacts\f5\f56ab75e8102186fdbe7a843ee5877f7
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\f5\f56ab75e8102186fdbe7a843ee5877f7
+    projectPath: Library\Artifacts\f5\f56ab75e8102186fdbe7a843ee5877f7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Kaindorfs\Library\Artifacts\fa\fabd4c6dab45ec535a133b5f36e81003
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\fa\fabd4c6dab45ec535a133b5f36e81003
-    projectPath: Library\Artifacts\fa\fabd4c6dab45ec535a133b5f36e81003
+  - path: Kaindorfs\Library\Artifacts\f7\f7adb3cf0020f1e2451686daf2ed65f2
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\f7\f7adb3cf0020f1e2451686daf2ed65f2
+    projectPath: Library\Artifacts\f7\f7adb3cf0020f1e2451686daf2ed65f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\f9\f9bcc6251fbf2ca29018f067926611ef
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\f9\f9bcc6251fbf2ca29018f067926611ef
+    projectPath: Library\Artifacts\f9\f9bcc6251fbf2ca29018f067926611ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\fb\fb16b5b2ad8f2544d3f8c6a16502efb0
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\fb\fb16b5b2ad8f2544d3f8c6a16502efb0
+    projectPath: Library\Artifacts\fb\fb16b5b2ad8f2544d3f8c6a16502efb0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -753,8 +2592,26 @@ MonoBehaviour:
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\fd\fd077515770f6d289ce02d9d1a14175c
     projectPath: Library\Artifacts\fd\fd077515770f6d289ce02d9d1a14175c
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Kaindorfs\Library\Artifacts\fd\fdeb3b00650247188536e6bece717985
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\fd\fdeb3b00650247188536e6bece717985
+    projectPath: Library\Artifacts\fd\fdeb3b00650247188536e6bece717985
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Kaindorfs\Library\Artifacts\ff\ff548c5ddf2a2de9bfed5ca8d902f70e
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\Artifacts\ff\ff548c5ddf2a2de9bfed5ca8d902f70e
+    projectPath: Library\Artifacts\ff\ff548c5ddf2a2de9bfed5ca8d902f70e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Kaindorfs\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Kaindorfs\Library\EditorInstance.json
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -815,60 +2672,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Kaindorfs\Library\ShaderCache\5\57ac809350101b662588bdec264b93b6.bin
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\ShaderCache\5\57ac809350101b662588bdec264b93b6.bin
-    projectPath: Library\ShaderCache\5\57ac809350101b662588bdec264b93b6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\ShaderCache\d\d454efbb7cc1fc7d61a597de1b302589.bin
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\ShaderCache\d\d454efbb7cc1fc7d61a597de1b302589.bin
-    projectPath: Library\ShaderCache\d\d454efbb7cc1fc7d61a597de1b302589.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Kaindorfs\Library\SourceAssetDB
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Kaindorfs\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Kaindorfs\Library\StateCache\PrefabStageHierarchy\75\7597db91550e565c777d30746eadb9ad.json
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\StateCache\PrefabStageHierarchy\75\7597db91550e565c777d30746eadb9ad.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\75\7597db91550e565c777d30746eadb9ad.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Library\StateCache\SceneView\0d\0da45ebe58c3dd5de2a642ffdd82fe1f.json
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\StateCache\SceneView\0d\0da45ebe58c3dd5de2a642ffdd82fe1f.json
-    projectPath: Library\StateCache\SceneView\0d\0da45ebe58c3dd5de2a642ffdd82fe1f.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Kaindorfs\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Kaindorfs\Library\StateCache\SceneView\ac\ac837b7b023e1c9855c95eba321a3492.json
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Library\StateCache\SceneView\ac\ac837b7b023e1c9855c95eba321a3492.json
-    projectPath: Library\StateCache\SceneView\ac\ac837b7b023e1c9855c95eba321a3492.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Kaindorfs\Logs\AssetImportWorker0.log
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
@@ -935,9 +2750,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Kaindorfs\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+  - path: Kaindorfs\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -947,69 +2762,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Kaindorfs\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
+  - path: Kaindorfs\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Temp\Assembly-CSharp.dll.hash
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\Assembly-CSharp.dll.hash
-    projectPath: Temp\Assembly-CSharp.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Temp\CompilationLog.txt
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\CompilationLog.txt
-    projectPath: Temp\CompilationLog.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Kaindorfs\Temp\UnityLockfile
     fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Temp\UnityTempFile-0e8f7610c3221e449b43875928053721
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\UnityTempFile-0e8f7610c3221e449b43875928053721
-    projectPath: Temp\UnityTempFile-0e8f7610c3221e449b43875928053721
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Temp\UnityTempFile-571a726e79ac6ba4c9d10a3e8fd27c3a
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\UnityTempFile-571a726e79ac6ba4c9d10a3e8fd27c3a
-    projectPath: Temp\UnityTempFile-571a726e79ac6ba4c9d10a3e8fd27c3a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Temp\UnityTempFile-78249c4e773def1409965576a618cc41
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\UnityTempFile-78249c4e773def1409965576a618cc41
-    projectPath: Temp\UnityTempFile-78249c4e773def1409965576a618cc41
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Temp\UnityTempFile-8122fc7693632cc468cbc860843eada0
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\UnityTempFile-8122fc7693632cc468cbc860843eada0
-    projectPath: Temp\UnityTempFile-8122fc7693632cc468cbc860843eada0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Temp\UnityTempFile-9abaa5374ae71aa419e0c6d2b6572612
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\UnityTempFile-9abaa5374ae71aa419e0c6d2b6572612
-    projectPath: Temp\UnityTempFile-9abaa5374ae71aa419e0c6d2b6572612
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Temp\UnityTempFile-d80ab381f33d7d949b9253fefea78d67
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\UnityTempFile-d80ab381f33d7d949b9253fefea78d67
-    projectPath: Temp\UnityTempFile-d80ab381f33d7d949b9253fefea78d67
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Kaindorfs\Temp\UnityTempFile-f3fcf66cf5938144b8c42db4ea785c59
-    fullPath: C:\Users\User\OneDrive\Desktop\School\Diplomarbeit\Kaindorfs\Kaindorfs\Temp\UnityTempFile-f3fcf66cf5938144b8c42db4ea785c59
-    projectPath: Temp\UnityTempFile-f3fcf66cf5938144b8c42db4ea785c59
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
