@@ -13,11 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-09-19T11:20:17.032+02:00
-  initializedAtString: 2021-09-19T11:20:17.009+02:00
-  localBranches:
-  - name: main
-    tracking: origin/main
+  lastUpdatedAtString: 2021-09-19T22:15:18.892+02:00
+  initializedAtString: 2021-09-19T22:15:18.867+02:00
+  localBranches: []
   remoteBranches:
   - name: origin/main
     tracking: '[None]'
@@ -30,14 +28,8 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - main
-    values:
-    - name: main
-      remote:
-        name: origin
-        url: https://github.com/Remsiii/Kaindorfs.git
-      trackingBranch: main
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin

@@ -8,6 +8,12 @@ public class Player : MonoBehaviour
     private int score;
     public Text scoreText;
     public Text highScoreText;
+    public SpriteRenderer spriteRenderer;
+    public Sprite newSprite;
+
+    public DatabaseCharacter characterDB;
+    public SpriteRenderer artworkSprite;
+
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +22,11 @@ public class Player : MonoBehaviour
         //aktuellen Highscore laden
         highScoreText.text = "Highscore: " + PlayerPrefs.GetInt("Highscore").ToString();
         
+
+        CharacterSelection character = characterDB.GetCharacter(2);
+        artworkSprite.sprite = character.characterSprite;
+        //spriteRenderer.sprite = artworkSprite.sprite;
+
     }
 
     // Update is called once per frame
@@ -34,7 +45,6 @@ public class Player : MonoBehaviour
             AudioSource audio = other.gameObject.GetComponent<AudioSource>();
             audio.Play();
             
-            
 
             score++;
             scoreText.text = "Score: " + score.ToString();
@@ -47,5 +57,9 @@ public class Player : MonoBehaviour
                 highScoreText.text = "Highscore: " + PlayerPrefs.GetInt("Highscore").ToString();
             }
         }
+    }
+    void ChangeSprite()
+    {
+        spriteRenderer.sprite = newSprite;
     }
 }
